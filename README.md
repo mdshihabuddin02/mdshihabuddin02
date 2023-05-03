@@ -1,4 +1,4 @@
-<img alt="Coder GIF" src="https://raw.githubusercontent.com/mdshihabuddin10/mdshihabuddin10/main/devOPS1.png" style="max-width: 100%;">
+<img alt="Coder GIF" src="https://raw.githubusercontent.com/mdshihabuddin10/mdshihabuddin10/main/devOPS1.png" style="max-width: 100%;" height="200" width="500" align="center">
 <br>
 
 <h1 align="center">Hello, I am Md Shihab Uddin and welcome to my Github profile</h1>
